@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  padding: 100px 40px 0;
+  background: hsl(197, 87%, 50%);
+  color: hsl(197, 87%, 95%);
+  height: 100vh;
+}
